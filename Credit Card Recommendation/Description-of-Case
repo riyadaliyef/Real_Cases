@@ -1,0 +1,13 @@
+Credit Card Recommendation in Banking
+
+“Golden Horizon Bank” is a private bank which provides various products to its
+customers, such as savings accounts, home loans, car loans, credit cards and so on.
+Currently, the new manager of the bank identified that the income from credit
+cards is quite low compared to the other services. He made the decision to take
+some actions to increase credit card earnings. The first step he decided is to
+recommend credit cards to the bank's customers rather than to new customers,
+because they already have trust in the company. As the manager knows the
+capability and potential of data in banking, he instructed the data science team
+lead to build a model that predicts which customers are more likely to buy credit
+cards and the team lead appointed you to this task. Try to build a model which
+helps the bank to get maximum out of the efforts in selling more credit cards
