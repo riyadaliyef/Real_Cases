@@ -1,3 +1,4 @@
+# That Code was written in Mysql
 #task 1
 SELECT 
     TYPEOFACCIDENT, 

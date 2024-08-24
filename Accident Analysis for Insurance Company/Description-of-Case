@@ -1,0 +1,13 @@
+Accident Analysis for Insurance Company
+
+
+People go to insurance companies to protect their health and property if any 
+accident happens. Insurance companies, because of this, are trying to analyze 
+datasets and find information about the accidents which happen to customers. 
+Company wants you to analyze DB and show information about the given questions.
+
+1. Company wants to see information about the weekdays. They want to see 
+each type of accident and each type of accidents weekday count of accidents.
+
+2. Now need to show information about the south and north region. Company 
+wants to see the average speed of each region
