@@ -1,0 +1,1297 @@
+STATUSOFACCIDENT;DATE;ALCOHOL;TYPEOFACCIDENT;ROADTYPE;SPEED;COUNTOFPERSON;SERIOUSINJURY;NONINJURED;REGIONNAME;RMA
+Finished;01.07.2013;Yes;Struck Pedestrian;Not at intersection;60 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;02.07.2013;No;Collision with a fixed object;T intersection;50 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.07.2013;No;Collision with a fixed object;Not at intersection;110 km/hr;3;2;1;NORTHERN REGION;Freeway
+Finished;02.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;10;0;8;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;02.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;02.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;02.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;02.07.2013;No;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.07.2013;No;Collision with a fixed object;Cross intersection;80 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.07.2013;Yes;Collision with a fixed object;T intersection;60 km/hr;1;0;0;SOUTH WESTERN REGION;Arterial Other
+Finished;02.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;6;0;4;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;02.07.2013;Yes;Collision with a fixed object;T intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.07.2013;No;Collision with vehicle;Not at intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;03.07.2013;Yes;No collision and no object struck;Not at intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.07.2013;No;Collision with vehicle;Not at intersection;70 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;02.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;03.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;6;0;5;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.07.2013;Yes;Collision with vehicle;Multiple intersection;80 km/hr;6;1;4;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;01.07.2013;No;Struck Pedestrian;T intersection;50 km/hr;3;0;2;SOUTH WESTERN REGION;Local Road
+Finished;01.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;01.07.2013;Yes;Struck animal;Not at intersection;100 km/hr;1;0;0;NORTHERN REGION;Local Road
+Finished;01.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;110 km/hr;3;0;0;NORTHERN REGION;Freeway
+Finished;01.07.2013;No;Collision with a fixed object;T intersection;70 km/hr;2;0;1;SOUTH WESTERN REGION;Local Road
+Finished;01.07.2013;No;Struck Pedestrian;Cross intersection;50 km/hr;4;3;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.07.2013;No;Vehicle overturned (no collision);T intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;01.07.2013;No;Collision with vehicle;T intersection;60 km/hr;4;0;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;01.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;WESTERN REGION;Local Road
+Finished;01.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;NORTHERN REGION;Arterial Other
+Finished;01.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;4;0;2;NORTH EASTERN REGION;Arterial Highway
+Finished;01.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;01.07.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;4;1;0;WESTERN REGION;Local Road
+Finished;01.07.2013;Yes;Collision with vehicle;Cross intersection;70 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;01.07.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;2;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;6;3;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;01.07.2013;Yes;Struck Pedestrian;T intersection;60 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;2;2;0;SOUTH WESTERN REGION;Arterial Highway
+Finished;01.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;02.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.07.2013;No;Vehicle overturned (no collision);Cross intersection;60 km/hr;2;0;1;WESTERN REGION;Arterial Highway
+Finished;02.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;02.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;02.07.2013;No;Collision with vehicle;Cross intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.07.2013;Yes;Collision with vehicle;Not at intersection;70 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;02.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;3;0;2;SOUTH WESTERN REGION;Local Road
+Finished;02.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;01.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;03.07.2013;Yes;Collision with a fixed object;Not at intersection;110 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;03.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;5;1;4;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;03.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.07.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;03.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;04.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;4;4;0;WESTERN REGION;Arterial Other
+Finished;04.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;4;2;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;04.07.2013;No;Collision with vehicle;T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;04.07.2013;No;Collision with a fixed object;Not at intersection;50 km/hr;1;1;0;SOUTH WESTERN REGION;Local Road
+Finished;04.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;06.07.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.07.2013;Yes;Collision with vehicle;T intersection;50 km/hr;8;0;0;NORTH EASTERN REGION;Arterial Highway
+Finished;06.07.2013;Yes;Collision with vehicle;Cross intersection;70 km/hr;5;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;06.07.2013;Yes;Collision with a fixed object;Dead end;50 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;06.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;06.07.2013;Yes;Collision with vehicle;Cross intersection;70 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;06.07.2013;Yes;Collision with vehicle;Cross intersection;90 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;06.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;06.07.2013;Yes;Collision with vehicle;T intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;7;4;3;WESTERN REGION;Local Road
+Finished;06.07.2013;Yes;Struck Pedestrian;T intersection;60 km/hr;5;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;06.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;06.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;04.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;04.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;04.07.2013;No;Struck Pedestrian;Cross intersection;50 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;04.07.2013;No;Collision with vehicle;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;04.07.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;04.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;04.07.2013;No;Vehicle overturned (no collision);Not at intersection;80 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;04.07.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;04.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;04.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;04.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;04.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;04.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;04.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.07.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;05.07.2013;No;Collision with vehicle;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;05.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;03.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.07.2013;No;Struck Pedestrian;Cross intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;05.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;NORTHERN REGION;Local Road
+Finished;05.07.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;04.07.2013;Yes;collision with some other object;Not at intersection;100 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Other
+Finished;05.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;05.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;1;1;WESTERN REGION;Local Road
+Finished;05.07.2013;No;Collision with vehicle;T intersection;60 km/hr;5;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.07.2013;Yes;Collision with a fixed object;Not at intersection;110 km/hr;1;1;0;NORTHERN REGION;Freeway
+Finished;05.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;04.07.2013;No;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;1;0;NORTH EASTERN REGION;Arterial Other
+Finished;05.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;05.07.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;05.07.2013;No;Struck animal;Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Local Road
+Finished;05.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Arterial Other
+Finished;05.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;05.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;05.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;7;0;6;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;05.07.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Highway
+Finished;06.07.2013;Yes;Collision with a fixed object;T intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;06.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;3;3;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.07.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;05.07.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;06.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;3;2;0;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;05.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;06.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;6;1;2;NORTH EASTERN REGION;Arterial Other
+Finished;06.07.2013;No;Collision with vehicle;Cross intersection;40 km/hr;4;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;4;1;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;06.07.2013;No;Vehicle overturned (no collision);Not at intersection;80 km/hr;3;0;2;NORTHERN REGION;Local Road
+Finished;03.07.2013;No;Struck Pedestrian;Cross intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;03.07.2013;No;Collision with vehicle;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;02.07.2013;No;Collision with vehicle;T intersection;40 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.07.2013;Yes;No collision and no object struck;Not at intersection;50 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;03.07.2013;No;No collision and no object struck;Not at intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;03.07.2013;No;Collision with vehicle;Cross intersection;100 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Other
+Finished;02.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;03.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;03.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;03.07.2013;No;Collision with a fixed object;Not at intersection;110 km/hr;1;0;0;NORTHERN REGION;Freeway
+Finished;01.07.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;03.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;03.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.07.2013;No;Collision with a fixed object;Not at intersection;50 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;03.07.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;01.07.2013;Yes;collision with some other object;T intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;03.07.2013;No;Collision with vehicle;Cross intersection;70 km/hr;4;0;2;WESTERN REGION;Arterial Other
+Finished;03.07.2013;No;Collision with vehicle;T intersection;60 km/hr;4;1;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;03.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;09.07.2013;No;Collision with a fixed object;T intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;09.07.2013;No;Collision with vehicle;T intersection;100 km/hr;2;1;0;WESTERN REGION;Arterial Highway
+Finished;08.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;SOUTH WESTERN REGION;Local Road
+Finished;09.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;0;2;SOUTH WESTERN REGION;Arterial Highway
+Finished;09.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;08.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;2;0;1;NORTHERN REGION;Local Road
+Finished;09.07.2013;No;Collision with vehicle;Multiple intersection;100 km/hr;3;2;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;09.07.2013;No;Collision with a fixed object;Cross intersection;70 km/hr;3;0;2;NORTHERN REGION;Arterial Highway
+Finished;09.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;09.07.2013;No;No collision and no object struck;Not at intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;09.07.2013;Yes;Collision with vehicle;T intersection;50 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;09.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;06.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;100 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Other
+Finished;06.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;4;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;06.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;5;0;4;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;06.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;NORTH EASTERN REGION;Local Road
+Finished;06.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;06.07.2013;Yes;Collision with a fixed object;T intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Arterial Highway
+Finished;06.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;06.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;06.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;5;1;2;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;06.07.2013;Yes;Struck Pedestrian;T intersection;70 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.07.2013;Yes;Collision with a fixed object;T intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;07.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;06.07.2013;Yes;Struck Pedestrian;T intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.07.2013;No;No collision and no object struck;T intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.07.2013;No;No collision and no object struck;Not at intersection;80 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;4;2;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.07.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;07.07.2013;No;Collision with a fixed object;T intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Arterial Highway
+Finished;07.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;6;0;5;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;6;0;5;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;0;1;SOUTH WESTERN REGION;Local Road
+Finished;07.07.2013;Yes;No collision and no object struck;T intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;08.07.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;08.07.2013;Yes;Struck Pedestrian;T intersection;50 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;08.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;1;0;0;WESTERN REGION;Arterial Other
+Finished;08.07.2013;No;Struck animal;Not at intersection;100 km/hr;1;0;0;SOUTH WESTERN REGION;Arterial Other
+Finished;08.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;0;SOUTH WESTERN REGION;Arterial Highway
+Finished;08.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;SOUTH WESTERN REGION;Arterial Other
+Finished;08.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;08.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;1;0;0;NORTHERN REGION;Arterial Other
+Finished;08.07.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;2;0;1;NORTHERN REGION;Arterial Other
+Finished;08.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;08.07.2013;No;Struck Pedestrian;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;08.07.2013;No;Collision with vehicle;T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;08.07.2013;No;Collision with vehicle;T intersection;80 km/hr;3;0;2;SOUTH WESTERN REGION;Arterial Other
+Finished;08.07.2013;No;Collision with vehicle;Not at intersection;70 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;08.07.2013;No;Struck Pedestrian;T intersection;70 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;08.07.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;08.07.2013;No;Collision with vehicle;T intersection;100 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;06.07.2013;No;Vehicle overturned (no collision);T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;08.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;08.07.2013;No;Vehicle overturned (no collision);Cross intersection;100 km/hr;2;2;0;NORTH EASTERN REGION;Arterial Highway
+Finished;08.07.2013;No;Collision with vehicle;T intersection;80 km/hr;7;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;08.07.2013;Yes;Struck Pedestrian;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;08.07.2013;Yes;Collision with vehicle;Multiple intersection;60 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;08.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;NORTHERN REGION;Local Road
+Finished;07.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;2;2;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;08.07.2013;Yes;Collision with vehicle;T intersection;40 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;08.07.2013;No;Vehicle overturned (no collision);Cross intersection;50 km/hr;1;0;0;WESTERN REGION;Arterial Other
+Finished;03.07.2013;Yes;Collision with vehicle;T intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;09.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;08.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;SOUTH WESTERN REGION;Local Road
+Finished;09.07.2013;No;Collision with vehicle;T intersection;80 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;09.07.2013;No;Struck Pedestrian;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;09.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;3;1;2;NORTHERN REGION;Arterial Other
+Finished;09.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;09.07.2013;No;Collision with vehicle;Not at intersection;70 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;08.07.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;09.07.2013;No;Collision with vehicle;T intersection;60 km/hr;7;2;5;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;09.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;08.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;05.07.2013;Yes;Struck Pedestrian;T intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;09.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;09.07.2013;No;Collision with vehicle;Multiple intersection;50 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;6;3;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;09.07.2013;No;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Local Road
+Finished;10.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;10.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;4;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;WESTERN REGION;Arterial Other
+Finished;10.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;10.07.2013;No;Collision with vehicle;Not at intersection;70 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;4;0;2;WESTERN REGION;Local Road
+Finished;10.07.2013;No;Collision with vehicle;T intersection;70 km/hr;5;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;10.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;1;0;SOUTH WESTERN REGION;Local Road
+Finished;09.07.2013;No;No collision and no object struck;T intersection;40 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;WESTERN REGION;Arterial Highway
+Finished;10.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.07.2013;No;Collision with vehicle;Cross intersection;90 km/hr;3;2;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;12.07.2013;No;Struck Pedestrian;Cross intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;10.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;3;0;0;SOUTH WESTERN REGION;Arterial Other
+Finished;10.07.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.07.2013;No;Collision with vehicle;Cross intersection;100 km/hr;3;1;1;SOUTH WESTERN REGION;Arterial Other
+Finished;12.07.2013;Yes;Struck Pedestrian;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;12.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;12.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Arterial Highway
+Finished;10.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;10.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;10.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;3;2;1;SOUTH WESTERN REGION;Local Road
+Finished;10.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;10.07.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;50 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;11.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;NORTHERN REGION;Arterial Highway
+Finished;10.07.2013;No;Collision with vehicle;T intersection;60 km/hr;5;0;2;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;10.07.2013;No;Collision with vehicle;Not at intersection;40 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;11.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;10.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;11.07.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;11.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;11.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;2;0;0;WESTERN REGION;Local Road
+Finished;11.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;10.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;11.07.2013;No;Collision with vehicle;T intersection;90 km/hr;3;1;0;SOUTH WESTERN REGION;Arterial Highway
+Finished;11.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;NORTHERN REGION;Local Road
+Finished;11.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;0;WESTERN REGION;Arterial Other
+Finished;04.07.2013;No;collision with some other object;Not at intersection;100 km/hr;1;1;0;WESTERN REGION;Local Road
+Finished;11.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;09.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;11.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;NORTHERN REGION;Arterial Other
+Finished;09.07.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;11.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Other
+Finished;04.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;08.07.2013;No;No collision and no object struck;T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;11.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;SOUTH WESTERN REGION;Local Road
+Finished;11.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;11.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;11.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;3;2;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;11.07.2013;No;No collision and no object struck;Not at intersection;40 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;11.07.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;6;2;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;11.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Arterial Other
+Finished;11.07.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;2;2;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.07.2013;Yes;Collision with vehicle;Multiple intersection;80 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;12.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;1;0;0;WESTERN REGION;Freeway
+Finished;11.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.07.2013;No;Collision with vehicle;Multiple intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.07.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;2;0;1;SOUTH WESTERN REGION;Local Road
+Finished;11.07.2013;No;Collision with vehicle;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;12.07.2013;No;Struck Pedestrian;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;10.07.2013;No;Collision with a fixed object;T intersection;100 km/hr;1;1;0;WESTERN REGION;Arterial Highway
+Finished;12.07.2013;No;Collision with vehicle;T intersection;70 km/hr;2;2;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;12.07.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;12.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;WESTERN REGION;Arterial Highway
+Finished;12.07.2013;No;Collision with vehicle;Not at intersection;70 km/hr;3;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;09.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;07.07.2013;Yes;Struck Pedestrian;Cross intersection;60 km/hr;2;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;09.07.2013;No;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;0;0;WESTERN REGION;Local Road
+Finished;09.07.2013;Yes;Struck Pedestrian;T intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;09.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;9;0;8;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;09.07.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;09.07.2013;No;Collision with vehicle;Cross intersection;70 km/hr;4;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;10.07.2013;Yes;Struck animal;T intersection;80 km/hr;2;1;0;NORTHERN REGION;Arterial Other
+Finished;10.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;NORTHERN REGION;Arterial Other
+Finished;10.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;5;3;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;09.07.2013;No;Vehicle overturned (no collision);T intersection;100 km/hr;1;0;0;SOUTH WESTERN REGION;Arterial Other
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;10.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;10.07.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;10.07.2013;No;No collision and no object struck;T intersection;50 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;10.07.2013;No;Struck Pedestrian;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;08.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.07.2013;No;No collision and no object struck;Not at intersection;100 km/hr;1;1;0;SOUTH WESTERN REGION;Arterial Other
+Finished;09.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;09.07.2013;No;Struck animal;Not at intersection;70 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.07.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;15.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;15.07.2013;Yes;Collision with a fixed object;T intersection;50 km/hr;4;2;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;15.07.2013;Yes;Collision with vehicle;T intersection;50 km/hr;5;2;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;16.07.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;16.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;16.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;6;1;4;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;16.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;15.07.2013;Yes;Collision with vehicle;Not at intersection;70 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;16.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;16.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;5;1;4;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;15.07.2013;Yes;No collision and no object struck;Not at intersection;70 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;12.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;WESTERN REGION;Arterial Highway
+Finished;12.07.2013;Yes;Collision with a fixed object;T intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Arterial Highway
+Finished;13.07.2013;Yes;Collision with a fixed object;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with a fixed object;Cross intersection;60 km/hr;1;1;0;WESTERN REGION;Local Road
+Finished;13.07.2013;Yes;Collision with a fixed object;Cross intersection;70 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;12.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;7;0;6;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;09.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;13.07.2013;No;Collision with vehicle;T intersection;40 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;13.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;11.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;NORTHERN REGION;Local Road
+Finished;12.07.2013;Yes;Collision with vehicle;Not at intersection;70 km/hr;5;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;3;0;2;WESTERN REGION;Arterial Other
+Finished;10.07.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;13.07.2013;No;No collision and no object struck;Not at intersection;100 km/hr;2;0;0;WESTERN REGION;Freeway
+Finished;13.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;5;1;4;WESTERN REGION;Arterial Other
+Finished;13.07.2013;Yes;Vehicle overturned (no collision);T intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with vehicle;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;11.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;6;0;5;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;13.07.2013;Yes;No collision and no object struck;Not at intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;5;0;3;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;13.07.2013;Yes;Collision with vehicle;Multiple intersection;60 km/hr;4;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;13.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;13.07.2013;Yes;Collision with a fixed object;Y intersection;100 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;13.07.2013;Yes;Collision with vehicle;Multiple intersection;60 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;13.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;3;1;2;NORTH EASTERN REGION;Arterial Highway
+Finished;13.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;WESTERN REGION;Local Road
+Finished;13.07.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;13.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with a fixed object;Cross intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;13.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Local Road
+Finished;12.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;WESTERN REGION;Arterial Highway
+Finished;13.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;13.07.2013;Yes;Struck Pedestrian;Cross intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;12.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;11.07.2013;Yes;Struck Pedestrian;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;6;0;5;WESTERN REGION;Local Road
+Finished;13.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;5;0;4;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;14.07.2013;Yes;Collision with vehicle;Cross intersection;70 km/hr;2;0;1;WESTERN REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;5;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;13.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;13.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;2;0;0;WESTERN REGION;Arterial Other
+Finished;13.07.2013;Yes;No collision and no object struck;Not at intersection;80 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;14.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Arterial Other
+Finished;01.07.2013;No;No collision and no object struck;Cross intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;14.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;13.07.2013;Yes;Collision with a fixed object;Cross intersection;40 km/hr;4;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;14.07.2013;No;Collision with vehicle;T intersection;60 km/hr;4;1;3;NORTHERN REGION;Local Road
+Finished;14.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;8;0;7;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;14.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;14.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;4;1;3;SOUTH WESTERN REGION;Arterial Highway
+Finished;14.07.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;14.07.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;14.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;14.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;2;0;0;WESTERN REGION;Arterial Highway
+Finished;15.07.2013;Yes;No collision and no object struck;T intersection;50 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;14.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;15.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;3;0;1;SOUTH WESTERN REGION;Arterial Other
+Finished;15.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;1;1;NORTH EASTERN REGION;Arterial Highway
+Finished;15.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;15.07.2013;Yes;Collision with vehicle;Multiple intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;15.07.2013;No;Vehicle overturned (no collision);Not at intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;15.07.2013;No;Fall from or in moving vehicle;Not at intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;14.07.2013;No;No collision and no object struck;T intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;15.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;15.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;15.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;7;2;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;15.07.2013;No;Collision with vehicle;Cross intersection;100 km/hr;7;1;2;WESTERN REGION;Arterial Highway
+Finished;15.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;5;2;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;15.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;17.07.2013;No;Collision with a fixed object;T intersection;70 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;17.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;17.07.2013;No;No collision and no object struck;T intersection;80 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;04.07.2013;Yes;Collision with vehicle;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;17.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;14.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;4;0;3;SOUTH WESTERN REGION;Arterial Other
+Finished;17.07.2013;No;Collision with vehicle;T intersection;70 km/hr;3;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;17.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.07.2013;Yes;Collision with a fixed object;T intersection;70 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;17.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;17.07.2013;No;Struck Pedestrian;Cross intersection;40 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;16.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;NORTHERN REGION;Arterial Other
+Finished;19.07.2013;No;Struck Pedestrian;T intersection;40 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;19.07.2013;No;Collision with vehicle;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;19.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;4;1;2;WESTERN REGION;Arterial Highway
+Finished;19.07.2013;No;Collision with a fixed object;Not at intersection;50 km/hr;1;1;0;NORTH EASTERN REGION;Local Road
+Finished;19.07.2013;No;No collision and no object struck;T intersection;60 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;19.07.2013;No;Collision with vehicle;Cross intersection;70 km/hr;4;1;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;19.07.2013;No;Struck Pedestrian;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;19.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;2;0;0;NORTH EASTERN REGION;Arterial Highway
+Finished;19.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;15.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;WESTERN REGION;Arterial Other
+Finished;17.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;17.07.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;3;0;2;NORTH EASTERN REGION;Local Road
+Finished;17.07.2013;No;Struck Pedestrian;Not at intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;17.07.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Other
+Finished;17.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;17.07.2013;Yes;Collision with vehicle;Not at intersection;70 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;17.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;17.07.2013;Yes;Collision with vehicle;Not at intersection;40 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;17.07.2013;Yes;No collision and no object struck;Not at intersection;70 km/hr;1;1;0;SOUTH WESTERN REGION;Arterial Highway
+Finished;17.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;4;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;17.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Highway
+Finished;17.07.2013;Yes;Collision with vehicle;Not at intersection;70 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;17.07.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;18.07.2013;Yes;Collision with a fixed object;Cross intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;18.07.2013;Yes;Collision with a fixed object;Cross intersection;60 km/hr;1;0;0;SOUTH WESTERN REGION;Arterial Highway
+Finished;18.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;18.07.2013;No;Vehicle overturned (no collision);Not at intersection;40 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;17.07.2013;No;Collision with a fixed object;T intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;18.07.2013;No;Collision with vehicle;Not at intersection;70 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;06.07.2013;No;Collision with vehicle;T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;09.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;15.07.2013;Yes;Vehicle overturned (no collision);Cross intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;18.07.2013;No;Struck Pedestrian;Cross intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;16.07.2013;Yes;Struck animal;Not at intersection;80 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;18.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;0;2;SOUTH WESTERN REGION;Arterial Other
+Finished;17.07.2013;Yes;Struck animal;Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Arterial Highway
+Finished;18.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;18.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;3;0;2;NORTHERN REGION;Arterial Highway
+Finished;17.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;18.07.2013;No;Vehicle overturned (no collision);T intersection;50 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;18.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;16.07.2013;No;Collision with vehicle;Not at intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;18.07.2013;No;Collision with vehicle;T intersection;60 km/hr;4;1;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;18.07.2013;No;Collision with vehicle;T intersection;80 km/hr;4;0;1;SOUTH WESTERN REGION;Arterial Highway
+Finished;18.07.2013;No;Collision with vehicle;T intersection;70 km/hr;6;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;18.07.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;WESTERN REGION;Local Road
+Finished;18.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;18.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;18.07.2013;Yes;Collision with vehicle;Not at intersection;110 km/hr;2;1;1;NORTH EASTERN REGION;Freeway
+Finished;18.07.2013;Yes;Collision with vehicle;Multiple intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;18.07.2013;Yes;Struck animal;Not at intersection;100 km/hr;1;0;0;SOUTH WESTERN REGION;Arterial Other
+Finished;18.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;3;0;1;NORTHERN REGION;Arterial Highway
+Finished;18.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;18.07.2013;No;Other accident;Not at intersection;50 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;19.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;No;Struck Pedestrian;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;15.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;16.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;5;0;4;NORTH EASTERN REGION;Arterial Highway
+Finished;16.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;16.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;16.07.2013;No;Collision with vehicle;Cross intersection;100 km/hr;2;2;0;SOUTH WESTERN REGION;Arterial Other
+Finished;10.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;2;0;1;WESTERN REGION;Local Road
+Finished;16.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;15.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;5;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;16.07.2013;No;Collision with vehicle;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;16.07.2013;No;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Arterial Highway
+Finished;16.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;16.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;4;0;3;NORTH EASTERN REGION;Local Road
+Finished;16.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;16.07.2013;No;Collision with vehicle;T intersection;80 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;16.07.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;1;0;WESTERN REGION;Arterial Other
+Finished;16.07.2013;Yes;Struck Pedestrian;T intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;16.07.2013;Yes;No collision and no object struck;Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;15.07.2013;Yes;Fall from or in moving vehicle;Not at intersection;50 km/hr;2;2;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;16.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;17.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;15.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;SOUTH WESTERN REGION;Arterial Other
+Finished;16.07.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Other
+Finished;17.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;17.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;06.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;80 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;21.07.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;21.07.2013;Yes;Collision with a fixed object;Cross intersection;70 km/hr;3;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;Yes;Struck Pedestrian;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;21.07.2013;Yes;Struck Pedestrian;Cross intersection;60 km/hr;2;0;1;NORTHERN REGION;Arterial Highway
+Finished;22.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;22.07.2013;No;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;SOUTH WESTERN REGION;Local Road
+Finished;17.07.2013;No;Vehicle overturned (no collision);T intersection;50 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;22.07.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;22.07.2013;No;Collision with vehicle;T intersection;80 km/hr;3;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;22.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;22.07.2013;Yes;Collision with vehicle;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;0;WESTERN REGION;Local Road
+Finished;19.07.2013;No;Collision with a fixed object;Not at intersection;110 km/hr;1;0;0;WESTERN REGION;Arterial Highway
+Finished;19.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;5;1;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;18.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;4;0;2;WESTERN REGION;Arterial Other
+Finished;19.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;18.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;19.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;6;0;5;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;19.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;80 km/hr;2;0;1;NORTH EASTERN REGION;Local Road
+Finished;19.07.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;Yes;Collision with vehicle;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;19.07.2013;No;Collision with vehicle;Multiple intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;19.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;18.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;19.07.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;2;1;1;WESTERN REGION;Local Road
+Finished;19.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;19.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Highway
+Finished;19.07.2013;Yes;Collision with vehicle;Not at intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;Yes;Struck Pedestrian;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;4;2;0;NORTH EASTERN REGION;Arterial Other
+Finished;19.07.2013;Yes;Collision with a fixed object;Not at intersection;110 km/hr;1;0;0;NORTHERN REGION;Arterial Highway
+Finished;19.07.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;1;0;WESTERN REGION;Local Road
+Finished;18.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;19.07.2013;No;Collision with vehicle;T intersection;70 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;20.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;20.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;SOUTH WESTERN REGION;Local Road
+Finished;20.07.2013;No;Collision with vehicle;T intersection;60 km/hr;6;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;20.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;20.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;19.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;20.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;1;1;WESTERN REGION;Local Road
+Finished;20.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;20.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Other
+Finished;20.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;NORTHERN REGION;Arterial Highway
+Finished;20.07.2013;No;Collision with vehicle;Cross intersection;70 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;7;0;6;WESTERN REGION;Arterial Other
+Finished;20.07.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;20.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;2;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;20.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;20.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;5;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;19.07.2013;Yes;Vehicle overturned (no collision);T intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;20.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;3;2;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;20.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;20.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;4;1;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;20.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;20.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;50 km/hr;1;1;0;NORTHERN REGION;Local Road
+Finished;20.07.2013;Yes;Collision with a fixed object;Cross intersection;60 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Highway
+Finished;20.07.2013;Yes;Struck Pedestrian;Cross intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;20.07.2013;Yes;Struck Pedestrian;Cross intersection;60 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Highway
+Finished;20.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;20.07.2013;Yes;Fall from or in moving vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;21.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;2;1;0;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;21.07.2013;Yes;Collision with a fixed object;Cross intersection;80 km/hr;2;2;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;20.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;7;1;5;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;21.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;21.07.2013;No;Struck Pedestrian;T intersection;50 km/hr;2;1;1;SOUTH WESTERN REGION;Arterial Other
+Finished;20.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;NORTH EASTERN REGION;Local Road
+Finished;21.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;5;1;4;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;20.07.2013;Yes;Struck Pedestrian;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;21.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;2;1;NORTHERN REGION;Local Road
+Finished;21.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;20.07.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;20.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;21.07.2013;No;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;21.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;21.07.2013;No;Collision with vehicle;Multiple intersection;60 km/hr;5;0;2;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;23.07.2013;No;Collision with a fixed object;T intersection;80 km/hr;3;2;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;23.07.2013;No;No collision and no object struck;Multiple intersection;40 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;23.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;23.07.2013;No;Collision with vehicle;Not at intersection;70 km/hr;4;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;23.07.2013;No;Collision with vehicle;T intersection;50 km/hr;2;0;1;NORTHERN REGION;Arterial Other
+Finished;19.07.2013;Yes;Collision with vehicle;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;23.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;WESTERN REGION;Local Road
+Finished;23.07.2013;No;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Local Road
+Finished;23.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;17.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;25.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;25.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;25.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;4;0;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;25.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;25.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;18.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;25.07.2013;No;collision with some other object;Not at intersection;100 km/hr;1;1;0;NORTHERN REGION;Arterial Other
+Finished;25.07.2013;No;Collision with a fixed object;T intersection;60 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;24.07.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;24.07.2013;No;Collision with a fixed object;T intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;25.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;25.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;24.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;8;0;7;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;23.07.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;23.07.2013;No;Struck Pedestrian;Not at intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;23.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;23.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;23.07.2013;No;Collision with vehicle;T intersection;60 km/hr;4;0;1;SOUTH WESTERN REGION;Arterial Highway
+Finished;23.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;WESTERN REGION;Local Road
+Finished;23.07.2013;No;Collision with vehicle;T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;23.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;23.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;1;1;NORTHERN REGION;Arterial Highway
+Finished;23.07.2013;Yes;Collision with vehicle;T intersection;50 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Other
+Finished;23.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;24.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;24.07.2013;Yes;Collision with a fixed object;Cross intersection;100 km/hr;1;1;0;SOUTH WESTERN REGION;Arterial Highway
+Finished;24.07.2013;Yes;Struck animal;Not at intersection;100 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;24.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;21.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;23.07.2013;Yes;Struck Pedestrian;Not at intersection;40 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;24.07.2013;No;Collision with vehicle;Multiple intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;23.07.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;23.07.2013;No;No collision and no object struck;T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;24.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;24.07.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;24.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;WESTERN REGION;Local Road
+Finished;24.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;24.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;1;0;0;NORTH EASTERN REGION;Arterial Other
+Finished;22.07.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;24.07.2013;No;No collision and no object struck;Not at intersection;100 km/hr;1;1;0;NORTH EASTERN REGION;Local Road
+Finished;24.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;24.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;24.07.2013;No;Struck Pedestrian;Not at intersection;70 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;24.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;24.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;24.07.2013;No;Collision with vehicle;Not at intersection;90 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;21.07.2013;Yes;Struck Pedestrian;Y intersection;50 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;24.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;NORTH EASTERN REGION;Local Road
+Finished;24.07.2013;No;Collision with vehicle;T intersection;70 km/hr;3;2;0;NORTHERN REGION;Arterial Highway
+Finished;24.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;7;2;5;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;24.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;4;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;24.07.2013;No;Collision with vehicle;Cross intersection;100 km/hr;3;0;1;NORTHERN REGION;Arterial Highway
+Finished;24.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;24.07.2013;Yes;Collision with vehicle;Multiple intersection;70 km/hr;6;2;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;24.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;19.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;6;0;5;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;25.07.2013;Yes;Collision with a fixed object;T intersection;40 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;25.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;4;1;3;NORTHERN REGION;Arterial Other
+Finished;25.07.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;22.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;25.07.2013;No;Collision with vehicle;Not at intersection;70 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;25.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;NORTHERN REGION;Local Road
+Finished;22.07.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;20.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;22.07.2013;No;Collision with vehicle;T intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;22.07.2013;No;Struck Pedestrian;Not at intersection;40 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;22.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;22.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;22.07.2013;No;Struck Pedestrian;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;22.07.2013;No;Vehicle overturned (no collision);Not at intersection;40 km/hr;1;1;0;WESTERN REGION;Local Road
+Finished;20.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;22.07.2013;No;Collision with a fixed object;T intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;22.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;SOUTH WESTERN REGION;Local Road
+Finished;22.07.2013;Yes;Collision with vehicle;Cross intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;22.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;22.07.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;22.07.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;23.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;22.07.2013;Yes;Struck Pedestrian;T intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;22.07.2013;No;Struck Pedestrian;T intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;22.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;23.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;21.07.2013;Yes;No collision and no object struck;Unknown;40 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;23.07.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;27.07.2013;Yes;Collision with a fixed object;Cross intersection;50 km/hr;1;0;0;NORTHERN REGION;Arterial Other
+Finished;10.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Highway
+Finished;27.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;8;0;7;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;27.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;27.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;8;0;6;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;27.07.2013;Yes;Struck Pedestrian;Not at intersection;70 km/hr;4;1;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;18.07.2013;Yes;No collision and no object struck;Not at intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;27.07.2013;Yes;Collision with a fixed object;Cross intersection;70 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;27.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;3;0;0;WESTERN REGION;Local Road
+Finished;27.07.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;27.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;28.07.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;28.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;25.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;5;2;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;21.07.2013;Yes;Collision with vehicle;T intersection;50 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Highway
+Finished;25.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;21.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;SOUTH WESTERN REGION;Local Road
+Finished;22.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;11.07.2013;Yes;Struck Pedestrian;Not at intersection;60 km/hr;2;0;1;NORTHERN REGION;Local Road
+Finished;25.07.2013;Yes;Collision with vehicle;Not at intersection;40 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;21.07.2013;No;No collision and no object struck;Not at intersection;60 km/hr;1;0;0;WESTERN REGION;Local Road
+Finished;25.07.2013;No;Collision with vehicle;Cross intersection;100 km/hr;4;0;3;NORTH EASTERN REGION;Arterial Highway
+Finished;25.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;25.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;25.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;2;2;0;NORTH EASTERN REGION;Arterial Highway
+Finished;25.07.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;3;2;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;25.07.2013;Yes;Collision with vehicle;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;25.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;26.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;20.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;NORTHERN REGION;Local Road
+Finished;26.07.2013;No;Collision with vehicle;T intersection;50 km/hr;3;0;1;NORTH EASTERN REGION;Local Road
+Finished;26.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;26.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;26.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;2;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;26.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;26.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;26.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;18.07.2013;No;No collision and no object struck;Not at intersection;100 km/hr;1;1;0;NORTHERN REGION;Local Road
+Finished;25.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;2;0;0;SOUTH WESTERN REGION;Arterial Other
+Finished;26.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;26.07.2013;No;No collision and no object struck;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;26.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;26.07.2013;No;Collision with vehicle;T intersection;50 km/hr;6;0;3;NORTH EASTERN REGION;Arterial Highway
+Finished;22.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;26.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;26.07.2013;No;Collision with vehicle;Cross intersection;70 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;26.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;26.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;26.07.2013;Yes;Collision with vehicle;T intersection;70 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;23.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Other
+Finished;26.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;3;1;2;SOUTH WESTERN REGION;Arterial Other
+Finished;26.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;26.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;26.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;26.07.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;7;0;6;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;26.07.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;5;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;25.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;26.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;26.07.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;4;2;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;26.07.2013;Yes;Collision with vehicle;Not at intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;26.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;4;3;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;26.07.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.07.2013;No;Vehicle overturned (no collision);Not at intersection;100 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;26.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;6;1;4;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;26.07.2013;Yes;Collision with vehicle;Not at intersection;70 km/hr;2;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;27.07.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;27.07.2013;No;Collision with vehicle;Multiple intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;25.07.2013;No;Vehicle overturned (no collision);Not at intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;27.07.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;27.07.2013;No;Struck Pedestrian;T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;27.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;27.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;5;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;27.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;27.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;26.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;27.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;27.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;1;1;0;SOUTH WESTERN REGION;Local Road
+Finished;27.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;27.07.2013;Yes;No collision and no object struck;T intersection;100 km/hr;2;0;1;NORTH EASTERN REGION;Local Road
+Finished;27.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;29.07.2013;No;No collision and no object struck;Not at intersection;100 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;29.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;29.07.2013;No;Struck Pedestrian;T intersection;60 km/hr;2;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;29.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;WESTERN REGION;Arterial Other
+Finished;29.07.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;29.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;29.07.2013;No;Collision with vehicle;T intersection;80 km/hr;5;0;4;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;29.07.2013;No;Collision with vehicle;Cross intersection;70 km/hr;9;0;8;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;29.07.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;6;1;5;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;29.07.2013;No;Collision with vehicle;T intersection;50 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;29.07.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Highway
+Finished;31.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;30.07.2013;Yes;Collision with a fixed object;T intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Local Road
+Finished;31.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;SOUTH WESTERN REGION;Arterial Other
+Finished;31.07.2013;No;Collision with vehicle;Cross intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;31.07.2013;No;Collision with vehicle;Not at intersection;50 km/hr;5;0;4;SOUTH WESTERN REGION;Local Road
+Finished;31.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;28.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;3;0;2;WESTERN REGION;Local Road
+Finished;31.07.2013;No;Struck Pedestrian;Not at intersection;40 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;31.07.2013;No;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;31.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;31.07.2013;No;Struck Pedestrian;T intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;29.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;29.07.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;WESTERN REGION;Local Road
+Finished;29.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;4;3;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;29.07.2013;Yes;Struck Pedestrian;T intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;30.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;30.07.2013;No;Collision with vehicle;T intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;29.07.2013;No;Struck Pedestrian;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;29.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;30.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;30.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;29.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;30.07.2013;No;No collision and no object struck;Not at intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;30.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;30.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;29.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;30.07.2013;No;Collision with vehicle;T intersection;40 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;30.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;30.07.2013;No;Vehicle overturned (no collision);Not at intersection;100 km/hr;3;0;2;NORTHERN REGION;Arterial Highway
+Finished;30.07.2013;No;Collision with vehicle;Cross intersection;70 km/hr;3;2;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;27.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;29.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;29.07.2013;Yes;Collision with vehicle;T intersection;50 km/hr;3;1;2;SOUTH WESTERN REGION;Local Road
+Finished;30.07.2013;No;Collision with vehicle;T intersection;70 km/hr;4;1;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;30.07.2013;No;Collision with vehicle;T intersection;60 km/hr;7;0;5;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;30.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;3;0;0;NORTHERN REGION;Arterial Other
+Finished;30.07.2013;No;Collision with vehicle;T intersection;70 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;30.07.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;30.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;30.07.2013;No;Collision with vehicle;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;30.07.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;30.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;1;1;0;SOUTH WESTERN REGION;Local Road
+Finished;30.07.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;0;0;NORTHERN REGION;Local Road
+Finished;30.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;4;4;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;25.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;31.07.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;31.07.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;3;1;2;SOUTH WESTERN REGION;Local Road
+Finished;31.07.2013;No;Collision with vehicle;T intersection;50 km/hr;3;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;28.07.2013;No;Collision with vehicle;T intersection;60 km/hr;5;0;4;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;31.07.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;30.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;31.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;30.07.2013;No;Struck Pedestrian;Cross intersection;50 km/hr;2;0;1;SOUTH WESTERN REGION;Local Road
+Finished;31.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;31.07.2013;No;Collision with vehicle;Not at intersection;70 km/hr;2;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;31.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;28.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;26.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;28.07.2013;No;No collision and no object struck;Not at intersection;100 km/hr;1;0;0;SOUTH WESTERN REGION;Local Road
+Finished;28.07.2013;No;Collision with vehicle;T intersection;50 km/hr;3;0;1;NORTHERN REGION;Local Road
+Finished;28.07.2013;No;Collision with vehicle;T intersection;80 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;28.07.2013;No;Collision with a fixed object;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;28.07.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;NORTH EASTERN REGION;Local Road
+Finished;28.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;28.07.2013;Yes;Struck animal;Not at intersection;100 km/hr;2;0;0;NORTH EASTERN REGION;Arterial Other
+Finished;28.07.2013;No;No collision and no object struck;T intersection;50 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;11.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;28.07.2013;No;Collision with vehicle;Multiple intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;29.07.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;29.07.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;29.07.2013;No;Struck Pedestrian;T intersection;40 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;23.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;29.07.2013;No;Struck Pedestrian;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;27.07.2013;No;Collision with vehicle;T intersection;80 km/hr;4;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;29.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;29.07.2013;No;Collision with a fixed object;T intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;29.07.2013;No;Struck Pedestrian;T intersection;70 km/hr;2;1;1;SOUTH WESTERN REGION;Arterial Highway
+Finished;29.07.2013;No;Collision with vehicle;T intersection;80 km/hr;2;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;29.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Highway
+Finished;02.08.2013;Yes;Collision with vehicle;T intersection;60 km/hr;6;2;3;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;02.08.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.08.2013;Yes;Collision with vehicle;T intersection;50 km/hr;2;1;1;NORTH EASTERN REGION;Local Road
+Finished;02.08.2013;Yes;Fall from or in moving vehicle;Not at intersection;70 km/hr;6;0;5;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.08.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;30.07.2013;Yes;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.08.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;3;0;1;SOUTH WESTERN REGION;Arterial Highway
+Finished;08.07.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.08.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;0;0;NORTHERN REGION;Local Road
+Finished;03.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.08.2013;No;Collision with vehicle;Not at intersection;100 km/hr;7;1;6;SOUTH WESTERN REGION;Arterial Highway
+Finished;01.08.2013;No;Collision with vehicle;T intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;30.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;31.07.2013;No;Collision with vehicle;Cross intersection;70 km/hr;4;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;31.07.2013;Yes;Collision with a fixed object;T intersection;60 km/hr;1;0;0;WESTERN REGION;Arterial Highway
+Finished;31.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;01.08.2013;Yes;Struck Pedestrian;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;31.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;01.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;31.07.2013;No;Collision with vehicle;Cross intersection;100 km/hr;2;0;1;NORTHERN REGION;Local Road
+Finished;31.07.2013;No;Collision with vehicle;Cross intersection;70 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;01.08.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;18.07.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;01.08.2013;No;Struck Pedestrian;Cross intersection;50 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Highway
+Finished;01.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.08.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;01.08.2013;No;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;31.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;1;0;WESTERN REGION;Arterial Other
+Finished;31.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;NORTHERN REGION;Arterial Highway
+Finished;01.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;WESTERN REGION;Arterial Other
+Finished;01.08.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;0;2;SOUTH WESTERN REGION;Arterial Other
+Finished;01.08.2013;No;collision with some other object;Not at intersection;100 km/hr;1;1;0;NORTH EASTERN REGION;Local Road
+Finished;01.08.2013;No;Collision with vehicle;T intersection;80 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;01.08.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;2;1;1;NORTH EASTERN REGION;Local Road
+Finished;01.08.2013;No;Collision with vehicle;Cross intersection;40 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;01.08.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;01.08.2013;No;Collision with vehicle;T intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;01.08.2013;No;Struck Pedestrian;T intersection;60 km/hr;4;1;3;WESTERN REGION;Local Road
+Finished;01.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.08.2013;No;Collision with vehicle;Cross intersection;100 km/hr;5;1;2;NORTH EASTERN REGION;Arterial Highway
+Finished;30.07.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;01.08.2013;No;Collision with vehicle;T intersection;100 km/hr;3;2;0;NORTH EASTERN REGION;Local Road
+Finished;01.08.2013;No;Collision with vehicle;T intersection;80 km/hr;5;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;01.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;01.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.08.2013;No;Collision with a fixed object;Not at intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;01.08.2013;Yes;Struck Pedestrian;Cross intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;01.08.2013;No;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;01.08.2013;Yes;Collision with vehicle;Cross intersection;70 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.08.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;01.08.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.08.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.08.2013;Yes;Collision with vehicle;T intersection;70 km/hr;5;1;4;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;01.08.2013;Yes;Collision with a fixed object;T intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;02.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;02.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;1;1;SOUTH WESTERN REGION;Local Road
+Finished;02.08.2013;No;Collision with vehicle;Not at intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;17.07.2013;No;Collision with vehicle;Not at intersection;70 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;02.08.2013;No;Collision with vehicle;Not at intersection;100 km/hr;3;0;2;NORTHERN REGION;Arterial Highway
+Finished;27.07.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;WESTERN REGION;Arterial Other
+Finished;02.08.2013;No;Collision with a fixed object;T intersection;50 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.08.2013;No;Struck Pedestrian;T intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;02.08.2013;No;Struck Pedestrian;Not at intersection;70 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.08.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;2;1;1;SOUTH WESTERN REGION;Arterial Highway
+Finished;01.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;02.08.2013;Yes;Collision with vehicle;Multiple intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;02.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;0;1;NORTHERN REGION;Arterial Highway
+Finished;02.08.2013;Yes;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.08.2013;Yes;Vehicle overturned (no collision);Not at intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;02.08.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.08.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;02.08.2013;Yes;Collision with a fixed object;Multiple intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;27.07.2013;Yes;No collision and no object struck;Not at intersection;40 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;02.08.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.08.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;03.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;3;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.08.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;5;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;03.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;4;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;04.08.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;26.07.2013;Yes;Collision with vehicle;Multiple intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;04.08.2013;Yes;Vehicle overturned (no collision);T intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;25.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;04.08.2013;No;No collision and no object struck;Not at intersection;100 km/hr;1;1;0;NORTH EASTERN REGION;Local Road
+Finished;03.08.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;4;1;2;WESTERN REGION;Freeway
+Finished;04.08.2013;Yes;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Local Road
+Finished;04.08.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;06.08.2013;No;Vehicle overturned (no collision);Not at intersection;80 km/hr;1;0;0;SOUTH WESTERN REGION;Local Road
+Finished;06.08.2013;No;Collision with vehicle;T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;27.07.2013;Yes;No collision and no object struck;Not at intersection;100 km/hr;1;0;0;WESTERN REGION;Arterial Other
+Finished;06.08.2013;No;No collision and no object struck;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.08.2013;No;Struck Pedestrian;T intersection;50 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;06.08.2013;No;Collision with vehicle;Not at intersection;70 km/hr;5;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;04.08.2013;Yes;Collision with vehicle;T intersection;60 km/hr;7;0;6;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;06.08.2013;No;Collision with vehicle;Cross intersection;40 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.08.2013;No;Collision with vehicle;Cross intersection;80 km/hr;5;1;4;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;06.08.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;03.08.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;7;0;6;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;04.08.2013;No;Collision with vehicle;T intersection;60 km/hr;4;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;04.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;04.08.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;NORTHERN REGION;Local Road
+Finished;30.07.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;04.08.2013;Yes;Collision with vehicle;T intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;04.08.2013;Yes;Collision with vehicle;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;04.08.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.08.2013;No;Struck Pedestrian;T intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;04.08.2013;Yes;Vehicle overturned (no collision);Not at intersection;60 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;04.08.2013;Yes;Collision with vehicle;Not at intersection;70 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;04.08.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;8;1;6;WESTERN REGION;Arterial Highway
+Finished;02.08.2013;No;Collision with vehicle;T intersection;50 km/hr;4;0;2;NORTH EASTERN REGION;Local Road
+Finished;07.07.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;05.08.2013;No;Collision with vehicle;T intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;05.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;24.07.2013;Yes;Collision with vehicle;T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;05.08.2013;No;Struck Pedestrian;T intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;27.07.2013;Yes;Vehicle overturned (no collision);Not at intersection;40 km/hr;1;1;0;WESTERN REGION;Local Road
+Finished;05.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;5;0;4;WESTERN REGION;Arterial Other
+Finished;05.08.2013;No;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;4;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;23.07.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;05.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;5;3;1;NORTH EASTERN REGION;Arterial Other
+Finished;05.08.2013;No;Collision with vehicle;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;05.08.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;05.08.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;05.08.2013;No;Collision with a fixed object;T intersection;60 km/hr;1;0;0;SOUTH WESTERN REGION;Arterial Other
+Finished;05.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.08.2013;No;Collision with a fixed object;Not at intersection;70 km/hr;4;0;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;05.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;05.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;5;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;05.08.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;02.08.2013;No;Vehicle overturned (no collision);Cross intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;22.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;30.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;06.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;05.08.2013;No;Collision with vehicle;Cross intersection;70 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;06.08.2013;No;Struck Pedestrian;Not at intersection;40 km/hr;3;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.08.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;NORTH EASTERN REGION;Local Road
+Finished;06.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.08.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;WESTERN REGION;Local Road
+Finished;20.07.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.08.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;30.07.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;SOUTH WESTERN REGION;Arterial Other
+Finished;03.08.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;WESTERN REGION;Arterial Highway
+Finished;03.08.2013;No;Fall from or in moving vehicle;T intersection;50 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;03.08.2013;Yes;Collision with vehicle;T intersection;50 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;03.08.2013;No;Collision with vehicle;T intersection;60 km/hr;4;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.08.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;03.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.08.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;2;1;0;WESTERN REGION;Local Road
+Finished;03.08.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;03.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;03.08.2013;No;Vehicle overturned (no collision);Not at intersection;110 km/hr;2;1;0;WESTERN REGION;Arterial Highway
+Finished;03.08.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;02.08.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Local Road
+Finished;03.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;5;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;03.08.2013;Yes;Collision with a fixed object;T intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.08.2013;Yes;Collision with vehicle;T intersection;60 km/hr;7;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;03.08.2013;Yes;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;5;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.08.2013;Yes;Struck Pedestrian;Cross intersection;40 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.08.2013;Yes;Collision with vehicle;T intersection;60 km/hr;4;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;03.08.2013;Yes;Collision with vehicle;Not at intersection;40 km/hr;3;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.08.2013;Yes;No collision and no object struck;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.08.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;02.08.2013;No;Collision with vehicle;Not at intersection;70 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;30.07.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;08.08.2013;No;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;09.08.2013;No;Collision with vehicle;Not at intersection;70 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;09.08.2013;No;Collision with vehicle;T intersection;60 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;08.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;08.08.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;08.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;09.08.2013;No;Collision with vehicle;Cross intersection;100 km/hr;4;0;3;WESTERN REGION;Local Road
+Finished;09.08.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;3;1;2;NORTHERN REGION;Arterial Highway
+Finished;09.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;WESTERN REGION;Arterial Other
+Finished;09.08.2013;No;Collision with vehicle;T intersection;70 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.08.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;09.08.2013;No;No collision and no object struck;T intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;09.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.08.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;1;0;NORTH EASTERN REGION;Local Road
+Finished;06.08.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;4;1;2;SOUTH WESTERN REGION;Arterial Other
+Finished;06.08.2013;No;Collision with vehicle;T intersection;80 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;06.08.2013;No;Collision with vehicle;T intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;06.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;1;1;SOUTH WESTERN REGION;Local Road
+Finished;06.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;06.08.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;03.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;06.08.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;6;2;4;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;06.08.2013;Yes;Collision with a fixed object;Dead end;100 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;06.08.2013;Yes;Struck Pedestrian;Cross intersection;50 km/hr;3;2;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;07.08.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;WESTERN REGION;Arterial Highway
+Finished;03.08.2013;Yes;Collision with vehicle;T intersection;60 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;06.08.2013;No;No collision and no object struck;T intersection;80 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.08.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.08.2013;No;Collision with vehicle;T intersection;40 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;30.07.2013;No;Collision with vehicle;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.08.2013;No;Struck Pedestrian;T intersection;70 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;07.08.2013;No;Collision with vehicle;T intersection;50 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;07.08.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;NORTHERN REGION;Local Road
+Finished;07.08.2013;No;No collision and no object struck;T intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;01.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.08.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;NORTHERN REGION;Local Road
+Finished;07.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;7;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;06.08.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;15.07.2013;No;Struck Pedestrian;Cross intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.08.2013;No;Struck Pedestrian;T intersection;50 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;07.08.2013;No;Struck Pedestrian;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.08.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;06.07.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;07.08.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.08.2013;No;Collision with vehicle;T intersection;80 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.08.2013;No;Struck Pedestrian;Cross intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;07.08.2013;No;Collision with a fixed object;Not at intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.08.2013;No;Collision with vehicle;T intersection;50 km/hr;4;1;3;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;07.08.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;SOUTH WESTERN REGION;Local Road
+Finished;07.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;07.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;07.08.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.08.2013;Yes;Collision with vehicle;Y intersection;50 km/hr;8;0;5;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;07.08.2013;Yes;Collision with vehicle;T intersection;80 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;07.08.2013;Yes;Struck Pedestrian;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;07.08.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.08.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;6;1;3;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;07.08.2013;Yes;No collision and no object struck;Not at intersection;100 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;08.08.2013;Yes;Collision with a fixed object;T intersection;50 km/hr;2;2;0;SOUTH WESTERN REGION;Local Road
+Finished;08.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;08.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;5;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;25.07.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;08.08.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;SOUTH WESTERN REGION;Arterial Highway
+Finished;08.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;16.07.2013;No;Collision with a fixed object;T intersection;100 km/hr;1;1;0;WESTERN REGION;Arterial Other
+Finished;08.08.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.08.2013;Yes;Vehicle overturned (no collision);T intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;08.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;08.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;08.08.2013;Yes;Struck Pedestrian;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;08.08.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;04.07.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;08.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;WESTERN REGION;Arterial Other
+Finished;08.08.2013;Yes;Vehicle overturned (no collision);Not at intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;08.08.2013;Yes;Collision with a fixed object;Not at intersection;80 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;08.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;0;1;SOUTH WESTERN REGION;Local Road
+Finished;09.08.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;1;1;0;SOUTH WESTERN REGION;Local Road
+Finished;09.08.2013;No;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;07.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;10.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;10.08.2013;Yes;Vehicle overturned (no collision);Cross intersection;60 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;7;0;5;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;10.08.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;6;0;5;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;10.08.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.08.2013;Yes;Struck Pedestrian;T intersection;60 km/hr;2;1;1;SOUTH WESTERN REGION;Local Road
+Finished;10.08.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;10.08.2013;Yes;Struck Pedestrian;T intersection;40 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;13.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;13.08.2013;No;Collision with vehicle;T intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;24.07.2013;No;No collision and no object struck;Not at intersection;50 km/hr;1;1;0;NORTH EASTERN REGION;Local Road
+Finished;13.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;3;1;0;SOUTH WESTERN REGION;Local Road
+Finished;07.08.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;12.08.2013;No;No collision and no object struck;Cross intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;13.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;13.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;13.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;1;0;SOUTH WESTERN REGION;Arterial Other
+Finished;12.08.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;SOUTH WESTERN REGION;Local Road
+Finished;10.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;09.08.2013;No;Collision with a fixed object;Not at intersection;70 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;10.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;4;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;11.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;4;0;3;WESTERN REGION;Arterial Highway
+Finished;06.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;0;1;NORTHERN REGION;Arterial Highway
+Finished;11.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;11.08.2013;No;Collision with vehicle;T intersection;60 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;07.08.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Local Road
+Finished;11.08.2013;No;No collision and no object struck;Cross intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;11.08.2013;No;Vehicle overturned (no collision);T intersection;100 km/hr;1;1;0;NORTH EASTERN REGION;Arterial Other
+Finished;02.08.2013;Yes;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;11.08.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;2;1;0;NORTH EASTERN REGION;Arterial Other
+Finished;02.08.2013;No;No collision and no object struck;Cross intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;11.08.2013;Yes;Collision with a fixed object;T intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;11.08.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;20.07.2013;No;No collision and no object struck;T intersection;100 km/hr;1;0;0;SOUTH WESTERN REGION;Local Road
+Finished;11.08.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;11.08.2013;No;Collision with vehicle;Multiple intersection;60 km/hr;2;0;1;SOUTH WESTERN REGION;Local Road
+Finished;12.08.2013;Yes;Collision with vehicle;Cross intersection;80 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;12.08.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.08.2013;No;Struck animal;Not at intersection;50 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;12.08.2013;No;Collision with vehicle;Cross intersection;100 km/hr;3;0;1;NORTH EASTERN REGION;Arterial Other
+Finished;12.08.2013;No;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;12.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;11.08.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;WESTERN REGION;Local Road
+Finished;07.08.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;12.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.08.2013;No;Struck Pedestrian;Not at intersection;80 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;12.08.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Other
+Finished;12.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;12.08.2013;No;Collision with vehicle;Not at intersection;40 km/hr;4;1;3;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;12.08.2013;No;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;11.08.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;0;1;WESTERN REGION;Local Road
+Finished;12.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;12.08.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;12.08.2013;Yes;Collision with vehicle;T intersection;40 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;12.08.2013;No;collision with some other object;Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.08.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;13.08.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;04.08.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.08.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;13.08.2013;No;Collision with vehicle;Not at intersection;40 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;11.08.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;13.08.2013;No;Struck Pedestrian;Cross intersection;50 km/hr;2;0;1;SOUTH WESTERN REGION;Local Road
+Finished;13.08.2013;No;Struck Pedestrian;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;09.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;09.08.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;09.08.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;09.08.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;0;0;SOUTH WESTERN REGION;Arterial Other
+Finished;09.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;4;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;09.08.2013;Yes;Collision with vehicle;Cross intersection;50 km/hr;3;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;09.08.2013;Yes;Collision with a fixed object;Not at intersection;90 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.08.2013;Yes;Collision with vehicle;Cross intersection;40 km/hr;5;2;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;09.08.2013;Yes;Struck Pedestrian;Not at intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;10.08.2013;Yes;Collision with a fixed object;Not at intersection;110 km/hr;1;1;0;NORTHERN REGION;Freeway
+Finished;10.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;3;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;09.08.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.08.2013;Yes;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;1;0;WESTERN REGION;Arterial Other
+Finished;10.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;07.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;10.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;01.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;10.08.2013;Yes;Vehicle overturned (no collision);Not at intersection;100 km/hr;1;0;0;WESTERN REGION;Arterial Highway
+Finished;10.08.2013;No;Collision with vehicle;Y intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;10.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;4;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;1;1;WESTERN REGION;Arterial Other
+Finished;10.08.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;10.08.2013;No;Collision with vehicle;T intersection;80 km/hr;4;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;10.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;08.08.2013;No;Collision with vehicle;T intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;15.08.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;WESTERN REGION;Arterial Highway
+Finished;15.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;5;0;4;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;14.08.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;4;0;2;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;15.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;15.08.2013;Yes;Collision with vehicle;Not at intersection;80 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;15.08.2013;Yes;No collision and no object struck;Not at intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;11.08.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;15.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;16.08.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;1;SOUTH WESTERN REGION;Arterial Other
+Finished;16.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;WESTERN REGION;Arterial Other
+Finished;13.08.2013;No;Other accident;Y intersection;50 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;13.08.2013;No;Collision with vehicle;T intersection;70 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;NORTH EASTERN REGION;Arterial Other
+Finished;13.08.2013;No;Collision with vehicle;Cross intersection;100 km/hr;2;1;1;SOUTH WESTERN REGION;Arterial Other
+Finished;13.08.2013;No;Collision with vehicle;Not at intersection;100 km/hr;6;0;5;WESTERN REGION;Arterial Highway
+Finished;07.07.2013;No;Vehicle overturned (no collision);T intersection;50 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;13.08.2013;Yes;Collision with vehicle;T intersection;50 km/hr;8;0;7;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;12.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;4;0;2;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;13.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;3;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;13.08.2013;No;Collision with vehicle;T intersection;70 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;13.08.2013;No;Collision with vehicle;Not at intersection;70 km/hr;4;0;3;WESTERN REGION;Arterial Other
+Finished;13.08.2013;No;Collision with vehicle;T intersection;70 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;07.08.2013;Yes;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Highway
+Finished;13.08.2013;Yes;Collision with vehicle;Not at intersection;60 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;14.08.2013;No;Struck Pedestrian;T intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;13.08.2013;No;Collision with vehicle;T intersection;80 km/hr;3;2;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;14.08.2013;No;Collision with vehicle;T intersection;80 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.08.2013;No;Collision with vehicle;Not at intersection;70 km/hr;5;5;0;WESTERN REGION;Arterial Other
+Finished;14.08.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;13.08.2013;No;Collision with vehicle;T intersection;80 km/hr;4;0;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;12.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;14.08.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;14.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;4;1;3;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;14.08.2013;No;Collision with vehicle;T intersection;50 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;03.08.2013;No;Vehicle overturned (no collision);Not at intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;5;0;4;WESTERN REGION;Arterial Highway
+Finished;14.08.2013;No;Collision with vehicle;Not at intersection;70 km/hr;3;2;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;14.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;14.08.2013;No;Struck Pedestrian;Not at intersection;40 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;14.08.2013;No;Collision with vehicle;T intersection;80 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;14.08.2013;No;Collision with vehicle;Cross intersection;70 km/hr;4;0;3;SOUTH WESTERN REGION;Arterial Highway
+Finished;14.08.2013;No;Collision with vehicle;T intersection;100 km/hr;2;0;1;NORTHERN REGION;Freeway
+Finished;13.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;4;0;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;14.08.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;05.08.2013;Yes;No collision and no object struck;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;14.08.2013;No;Collision with vehicle;Not at intersection;110 km/hr;2;0;1;NORTH EASTERN REGION;Freeway
+Finished;14.08.2013;No;Struck Pedestrian;Cross intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;14.08.2013;No;Collision with vehicle;T intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;14.08.2013;Yes;Collision with vehicle;T intersection;50 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;14.08.2013;Yes;collision with some other object;Not at intersection;110 km/hr;1;1;0;WESTERN REGION;Freeway
+Finished;14.08.2013;Yes;Collision with vehicle;T intersection;70 km/hr;3;0;1;WESTERN REGION;Arterial Other
+Finished;14.08.2013;No;collision with some other object;Not at intersection;50 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;14.08.2013;Yes;Struck animal;Not at intersection;100 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;12.08.2013;No;Collision with vehicle;T intersection;60 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;17.07.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;14.08.2013;Yes;Collision with vehicle;Not at intersection;100 km/hr;3;1;2;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;14.08.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;NORTH EASTERN REGION;Arterial Other
+Finished;15.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;6;0;5;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;15.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;2;0;0;SOUTH WESTERN REGION;Arterial Highway
+Finished;15.08.2013;No;Collision with vehicle;Cross intersection;90 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;09.08.2013;Yes;Collision with a fixed object;Not at intersection;60 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;13.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;08.08.2013;Yes;Collision with vehicle;Not at intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;15.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Highway
+Finished;15.08.2013;No;Collision with vehicle;Cross intersection;60 km/hr;3;0;2;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;03.08.2013;No;Collision with a fixed object;Not at intersection;100 km/hr;2;0;0;WESTERN REGION;Local Road
+Finished;15.08.2013;No;Collision with vehicle;Not at intersection;70 km/hr;5;1;4;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;31.07.2013;No;Struck Pedestrian;Cross intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;15.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;2;1;1;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;15.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;4;1;3;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;15.08.2013;No;Struck Pedestrian;Not at intersection;60 km/hr;3;1;2;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;15.08.2013;No;Vehicle overturned (no collision);Cross intersection;60 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;15.08.2013;No;Collision with vehicle;Not at intersection;60 km/hr;2;1;0;SOUTH WESTERN REGION;Local Road
+Finished;12.07.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;15.08.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;2;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;26.07.2013;No;Collision with vehicle;Cross intersection;60 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;15.08.2013;No;Collision with vehicle;T intersection;50 km/hr;2;0;0;METROPOLITAN NORTH WEST REGION;Local Road
+Finished;15.08.2013;No;Collision with vehicle;Not at intersection;50 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Local Road
+Finished;12.08.2013;No;Collision with vehicle;Not at intersection;100 km/hr;2;0;1;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;15.08.2013;No;Collision with vehicle;T intersection;60 km/hr;6;0;4;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;12.08.2013;No;Vehicle overturned (no collision);Not at intersection;60 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;15.08.2013;No;Collision with vehicle;Cross intersection;50 km/hr;4;0;3;WESTERN REGION;Local Road
+Finished;05.08.2013;No;Collision with vehicle;Cross intersection;40 km/hr;3;0;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;15.08.2013;No;Collision with a fixed object;T intersection;80 km/hr;1;0;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;26.07.2013;No;Collision with vehicle;Cross intersection;80 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Freeway
+Finished;16.08.2013;Yes;Struck Pedestrian;Not at intersection;60 km/hr;3;1;2;NORTHERN REGION;Local Road
+Finished;16.08.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;0;0;NORTH EASTERN REGION;Local Road
+Finished;16.08.2013;Yes;Collision with a fixed object;Not at intersection;100 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;17.08.2013;Yes;Collision with a fixed object;T intersection;60 km/hr;1;1;0;SOUTH WESTERN REGION;Local Road
+Finished;17.08.2013;Yes;Collision with a fixed object;Cross intersection;60 km/hr;1;0;0;NORTHERN REGION;Arterial Other
+Finished;17.08.2013;Yes;Vehicle overturned (no collision);Not at intersection;70 km/hr;1;1;0;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;17.08.2013;Yes;Collision with a fixed object;Not at intersection;50 km/hr;1;1;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;15.08.2013;No;Collision with vehicle;T intersection;60 km/hr;4;0;3;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;16.08.2013;No;Collision with vehicle;Not at intersection;80 km/hr;5;2;3;METROPOLITAN NORTH WEST REGION;Freeway
+Finished;17.08.2013;Yes;Collision with a fixed object;Not at intersection;70 km/hr;2;1;1;METROPOLITAN SOUTH EAST REGION;Arterial Other
+Finished;07.08.2013;Yes;Collision with a fixed object;Cross intersection;100 km/hr;1;0;0;METROPOLITAN NORTH WEST REGION;Arterial Other
+Finished;15.08.2013;Yes;Struck Pedestrian;Cross intersection;50 km/hr;2;0;1;METROPOLITAN SOUTH EAST REGION;Local Road
