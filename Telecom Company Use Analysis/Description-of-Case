@@ -1,0 +1,26 @@
+Telecom Company Use Analysis
+
+
+Telecom services now include fixed-network services (data retail, Internet retail, 
+voice retail and wholesale) and mobile services. Fixed-data services includes all 
+dedicated/private line, packet and circuit-switched access services (for example, 
+frame relay, asynchronous transfer mode, IP, Integrated Services Digital Network, 
+DSL, multichannel multipoint distribution service and satellite) retail revenue. No 
+differentiation is made between the type of traffic or application carried by these 
+services. The telecom company which gives these kinds of services wants to analyze 
+dataset about their service.
+
+
+1. Telecom wants to see each service use type of customers and total number 
+in each use type customers which accept a partner .
+
+
+2. The company sees that some customers accept device protection but not 
+accept security for the internet.So company wants to see the number of each 
+internet service type which customers do not accept security for internet but 
+accept device protection.
+
+
+3. Some customers use more than 2 lines for their internet use and 
+communications. Company wants to see customers who have more than 
+2000$ total charges
