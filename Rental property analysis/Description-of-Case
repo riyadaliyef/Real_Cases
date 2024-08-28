@@ -1,0 +1,18 @@
+Rental property analysis
+
+
+You are assigned as a data analyst intern by the Real Estate company in order to 
+give your solutions to the problems described below. Need to analyze dataset and 
+show information. When trying to solve the issues, read the problem statement 
+and think carefully about what is being asked. Now, time to start!
+
+
+1. Need to show information about the building which was built more than 50 
+years before and has a washer.
+
+2. Need to show information about each age of the building which has washer, 
+elevator and gym and show mean of price and size of building.
+
+3. Need to show information about the 1 square meter price house which has 2 
+bedrooms and it takes 10 minutes or less to get to the subway.(1 Square Feet 
+to Square Meter – 0.093)
