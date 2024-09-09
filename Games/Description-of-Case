@@ -1,0 +1,26 @@
+Games
+
+You are assigned as a data analyst by the ‘X’ game producer company in order to give 
+your solutions to the problems described below. When trying to solve the issues, read the 
+problem statement and think carefully about what is being asked. Now, time to start!
+
+All problems in the first task refer to the open source ‘ReportDb’ Database. Please 
+familiarize yourself with the tables and column names in order to write accurate queries 
+and get the appropriate answers.
+
+1. Company wants to develop games like “Pokemon” games.So they need to look at 
+Pokemon games data. They want to see information about pokemon games after 
+2000 years with which global sales are greater than 15 and with year order.
+
+2. Company knows that there are too many game genres. Every genre has its own 
+customer type. So, they want to see information about top 10 genre depending on 
+average of global sale in 2010.
+
+3. In the game industry there are too many game publishers and some of them are 
+too famous like ‘Sega’ and ‘Activision’. Company wants to know information about 
+‘Sega’ and ‘Activision’ companies and they are interested about Sport games in 
+2015 and 2012 year. They want to see order depend on rank.
+
+4. Now the company wants to see top 5 each game platform maximum and minimum 
+of global sales. Also want to see each publisher count of game and order with that 
+count maximum to minimum
