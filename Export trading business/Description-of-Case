@@ -1,0 +1,21 @@
+Export Trading Business
+
+An export trading business is a self-contained corporation that provides support
+services to enterprises that export. This may involve warehousing, shipping,
+insurance, and billing on the client's behalf. Furthermore, export trading
+organizations may assist producers in locating international buyers and providing
+them with additional market information. An ETC can also be formed by a group
+of producers.
+
+Task 1.
+Company wants to analyze data: customer name and order id on which Orders, the
+interval between order and shipped date more than 20 days.
+
+Task 2.
+Pick up orders which have been placed on Fridays, add 2 months,25 days to
+Shipped dates of these orders and show OrderIDs and calculated ShippedDates of
+orders.
+
+Task 3.
+To update the database, you need to compile a list of companies with recent orders
+over 300 months and their oldest orders.
